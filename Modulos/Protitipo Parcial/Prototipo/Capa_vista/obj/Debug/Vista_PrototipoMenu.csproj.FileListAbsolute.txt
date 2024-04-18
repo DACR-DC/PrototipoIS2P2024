@@ -1,0 +1,49 @@
+C:\Users\d_car\OneDrive\Documentos\GitHub\EvaluacionIS2k24\Codigo\Modulos\Prototipo\Prototipo\Capa_vista\obj\Debug\Vista_PrototipoMenu.csproj.AssemblyReference.cache
+C:\Users\d_car\OneDrive\Documentos\GitHub\EvaluacionIS2k24\Codigo\Modulos\Prototipo\Prototipo\Capa_vista\obj\Debug\Vista_PrototipoMenu.MenuPrototipo.resources
+C:\Users\d_car\OneDrive\Documentos\GitHub\EvaluacionIS2k24\Codigo\Modulos\Prototipo\Prototipo\Capa_vista\obj\Debug\Vista_PrototipoMenu.Properties.Resources.resources
+C:\Users\d_car\OneDrive\Documentos\GitHub\EvaluacionIS2k24\Codigo\Modulos\Prototipo\Prototipo\Capa_vista\obj\Debug\Vista_PrototipoMenu.csproj.GenerateResource.cache
+C:\Users\d_car\OneDrive\Documentos\GitHub\EvaluacionIS2k24\Codigo\Modulos\Prototipo\Prototipo\Capa_vista\obj\Debug\Vista_PrototipoMenu.csproj.CoreCompileInputs.cache
+C:\Users\d_car\OneDrive\Documentos\GitHub\EvaluacionIS2k24\Codigo\Modulos\Prototipo\Prototipo\Capa_vista\bin\Debug\Vista_PrototipoMenu.dll
+C:\Users\d_car\OneDrive\Documentos\GitHub\EvaluacionIS2k24\Codigo\Modulos\Prototipo\Prototipo\Capa_vista\bin\Debug\Vista_PrototipoMenu.pdb
+C:\Users\d_car\OneDrive\Documentos\GitHub\EvaluacionIS2k24\Codigo\Modulos\Prototipo\Prototipo\Capa_vista\bin\Debug\Controlador_PrototipoMenu.dll
+C:\Users\d_car\OneDrive\Documentos\GitHub\EvaluacionIS2k24\Codigo\Modulos\Prototipo\Prototipo\Capa_vista\bin\Debug\eCryptography.dll
+C:\Users\d_car\OneDrive\Documentos\GitHub\EvaluacionIS2k24\Codigo\Modulos\Prototipo\Prototipo\Capa_vista\bin\Debug\FontAwesome.Sharp.dll
+C:\Users\d_car\OneDrive\Documentos\GitHub\EvaluacionIS2k24\Codigo\Modulos\Prototipo\Prototipo\Capa_vista\bin\Debug\Seguridad_Controlador.dll
+C:\Users\d_car\OneDrive\Documentos\GitHub\EvaluacionIS2k24\Codigo\Modulos\Prototipo\Prototipo\Capa_vista\bin\Debug\Modelo_Seguridad.dll
+C:\Users\d_car\OneDrive\Documentos\GitHub\EvaluacionIS2k24\Codigo\Modulos\Prototipo\Prototipo\Capa_vista\bin\Debug\Controlador_PrototipoMenu.pdb
+C:\Users\d_car\OneDrive\Documentos\GitHub\EvaluacionIS2k24\Codigo\Modulos\Prototipo\Prototipo\Capa_vista\obj\Debug\Vista_PrototipoMenu.csproj.CopyComplete
+C:\Users\d_car\OneDrive\Documentos\GitHub\EvaluacionIS2k24\Codigo\Modulos\Prototipo\Prototipo\Capa_vista\obj\Debug\Vista_PrototipoMenu.dll
+C:\Users\d_car\OneDrive\Documentos\GitHub\EvaluacionIS2k24\Codigo\Modulos\Prototipo\Prototipo\Capa_vista\obj\Debug\Vista_PrototipoMenu.pdb
+C:\Users\d_car\OneDrive\Documentos\GitHub\EvaluacionIS2k24\Codigo\Modulos\Prototipo\Prototipo\Capa_vista\bin\Debug\CapaVistaNav.dll
+C:\Users\d_car\OneDrive\Documentos\GitHub\EvaluacionIS2k24\Codigo\Modulos\Prototipo\Prototipo\Capa_vista\bin\Debug\CapaControladorNav.dll
+C:\Users\d_car\OneDrive\Documentos\GitHub\EvaluacionIS2k24\Codigo\Modulos\Prototipo\Prototipo\Capa_vista\bin\Debug\CapaModeloNav.dll
+C:\Users\d_car\OneDrive\Documentos\GitHub\EvaluacionIS2k24\Codigo\Modulos\Prototipo\Prototipo\Capa_vista\bin\Debug\CapaVistaNav.pdb
+C:\Users\d_car\OneDrive\Documentos\GitHub\EvaluacionIS2k24\Codigo\Modulos\Prototipo\Prototipo\Capa_vista\bin\Debug\CapaControladorNav.pdb
+C:\Users\d_car\OneDrive\Documentos\GitHub\EvaluacionIS2k24\Codigo\Modulos\Prototipo\Prototipo\Capa_vista\bin\Debug\CapaModeloNav.pdb
+C:\Users\d_car\OneDrive\Documentos\GitHub\EvaluacionIS2k24\Codigo\Modulos\Prototipo\Prototipo\Capa_vista\obj\Debug\Vista_PrototipoMenu.frmMantFacultades.resources
+C:\Users\d_car\OneDrive\Documentos\GitHub\EvaluacionIS2k24\Codigo\Modulos\Prototipo\Prototipo\Capa_vista\obj\Debug\Vista_PrototipoMenu.frmMantMaestros.resources
+C:\Users\d_car\OneDrive\Escritorio\Prueba Parcial\Modulos\Protitipo Parcial\Prototipo\Capa_vista\obj\Debug\Vista_PrototipoMenu.csproj.AssemblyReference.cache
+C:\Users\d_car\OneDrive\Escritorio\Prueba Parcial\Modulos\Protitipo Parcial\Prototipo\Capa_vista\obj\Debug\Vista_PrototipoMenu.frmMantenimiento.resources
+C:\Users\d_car\OneDrive\Escritorio\Prueba Parcial\Modulos\Protitipo Parcial\Prototipo\Capa_vista\obj\Debug\Vista_PrototipoMenu.MenuPrototipo.resources
+C:\Users\d_car\OneDrive\Escritorio\Prueba Parcial\Modulos\Protitipo Parcial\Prototipo\Capa_vista\obj\Debug\Vista_PrototipoMenu.Properties.Resources.resources
+C:\Users\d_car\OneDrive\Escritorio\Prueba Parcial\Modulos\Protitipo Parcial\Prototipo\Capa_vista\obj\Debug\Vista_PrototipoMenu.csproj.GenerateResource.cache
+C:\Users\d_car\OneDrive\Escritorio\Prueba Parcial\Modulos\Protitipo Parcial\Prototipo\Capa_vista\obj\Debug\Vista_PrototipoMenu.csproj.CoreCompileInputs.cache
+C:\Users\d_car\OneDrive\Escritorio\Prueba Parcial\Modulos\Protitipo Parcial\Prototipo\Capa_vista\obj\Debug\Vista_PrototipoMenu.dll
+C:\Users\d_car\OneDrive\Escritorio\Prueba Parcial\Modulos\Protitipo Parcial\Prototipo\Capa_vista\obj\Debug\Vista_PrototipoMenu.pdb
+C:\Users\d_car\OneDrive\Escritorio\Prueba Parcial\Modulos\Protitipo Parcial\Prototipo\Capa_vista\bin\Debug\Vista_PrototipoMenu.dll
+C:\Users\d_car\OneDrive\Escritorio\Prueba Parcial\Modulos\Protitipo Parcial\Prototipo\Capa_vista\bin\Debug\Vista_PrototipoMenu.pdb
+C:\Users\d_car\OneDrive\Escritorio\Prueba Parcial\Modulos\Protitipo Parcial\Prototipo\Capa_vista\bin\Debug\Controlador_PrototipoMenu.dll
+C:\Users\d_car\OneDrive\Escritorio\Prueba Parcial\Modulos\Protitipo Parcial\Prototipo\Capa_vista\bin\Debug\eCryptography.dll
+C:\Users\d_car\OneDrive\Escritorio\Prueba Parcial\Modulos\Protitipo Parcial\Prototipo\Capa_vista\bin\Debug\FontAwesome.Sharp.dll
+C:\Users\d_car\OneDrive\Escritorio\Prueba Parcial\Modulos\Protitipo Parcial\Prototipo\Capa_vista\bin\Debug\CapaModeloNav.dll
+C:\Users\d_car\OneDrive\Escritorio\Prueba Parcial\Modulos\Protitipo Parcial\Prototipo\Capa_vista\bin\Debug\Modelo_Seguridad.dll
+C:\Users\d_car\OneDrive\Escritorio\Prueba Parcial\Modulos\Protitipo Parcial\Prototipo\Capa_vista\bin\Debug\CapaControladorNav.pdb
+C:\Users\d_car\OneDrive\Escritorio\Prueba Parcial\Modulos\Protitipo Parcial\Prototipo\Capa_vista\bin\Debug\CapaVistaNav.pdb
+C:\Users\d_car\OneDrive\Escritorio\Prueba Parcial\Modulos\Protitipo Parcial\Prototipo\Capa_vista\bin\Debug\Controlador_PrototipoMenu.pdb
+C:\Users\d_car\OneDrive\Escritorio\Prueba Parcial\Modulos\Protitipo Parcial\Prototipo\Capa_vista\bin\Debug\CapaModeloNav.pdb
+C:\Users\d_car\OneDrive\Escritorio\Prueba Parcial\Modulos\Protitipo Parcial\Prototipo\Capa_vista\obj\Debug\Vista_PrototipoMenu.csproj.CopyComplete
+C:\Users\d_car\OneDrive\Escritorio\Prueba Parcial\Modulos\Protitipo Parcial\Prototipo\Capa_vista\bin\Debug\CapaControladorNav.dll
+C:\Users\d_car\OneDrive\Escritorio\Prueba Parcial\Modulos\Protitipo Parcial\Prototipo\Capa_vista\bin\Debug\CapaVistaNav.dll
+C:\Users\d_car\OneDrive\Escritorio\Prueba Parcial\Modulos\Protitipo Parcial\Prototipo\Capa_vista\obj\Debug\Vista_PrototipoMenu.DatosMoneda.resources
+C:\Users\d_car\OneDrive\Escritorio\Prueba Parcial\Modulos\Protitipo Parcial\Prototipo\Capa_vista\bin\Debug\Modelo_PrototipoMenu.dll
+C:\Users\d_car\OneDrive\Escritorio\Prueba Parcial\Modulos\Protitipo Parcial\Prototipo\Capa_vista\bin\Debug\Modelo_PrototipoMenu.pdb

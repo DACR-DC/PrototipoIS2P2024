@@ -1,0 +1,12 @@
+C:\Users\d_car\OneDrive\Documentos\GitHub\EvaluacionIS2k24\Codigo\Modulos\Prototipo\Prototipo\Modelo\bin\Debug\Modelo_PrototipoMenu.dll
+C:\Users\d_car\OneDrive\Documentos\GitHub\EvaluacionIS2k24\Codigo\Modulos\Prototipo\Prototipo\Modelo\bin\Debug\Modelo_PrototipoMenu.pdb
+C:\Users\d_car\OneDrive\Documentos\GitHub\EvaluacionIS2k24\Codigo\Modulos\Prototipo\Prototipo\Modelo\obj\Debug\Modelo_PrototipoMenu.csproj.AssemblyReference.cache
+C:\Users\d_car\OneDrive\Documentos\GitHub\EvaluacionIS2k24\Codigo\Modulos\Prototipo\Prototipo\Modelo\obj\Debug\Modelo_PrototipoMenu.csproj.CoreCompileInputs.cache
+C:\Users\d_car\OneDrive\Documentos\GitHub\EvaluacionIS2k24\Codigo\Modulos\Prototipo\Prototipo\Modelo\obj\Debug\Modelo_PrototipoMenu.dll
+C:\Users\d_car\OneDrive\Documentos\GitHub\EvaluacionIS2k24\Codigo\Modulos\Prototipo\Prototipo\Modelo\obj\Debug\Modelo_PrototipoMenu.pdb
+C:\Users\d_car\OneDrive\Escritorio\Prueba Parcial\Modulos\Protitipo Parcial\Prototipo\Modelo\bin\Debug\Modelo_PrototipoMenu.dll
+C:\Users\d_car\OneDrive\Escritorio\Prueba Parcial\Modulos\Protitipo Parcial\Prototipo\Modelo\bin\Debug\Modelo_PrototipoMenu.pdb
+C:\Users\d_car\OneDrive\Escritorio\Prueba Parcial\Modulos\Protitipo Parcial\Prototipo\Modelo\obj\Debug\Modelo_PrototipoMenu.csproj.AssemblyReference.cache
+C:\Users\d_car\OneDrive\Escritorio\Prueba Parcial\Modulos\Protitipo Parcial\Prototipo\Modelo\obj\Debug\Modelo_PrototipoMenu.csproj.CoreCompileInputs.cache
+C:\Users\d_car\OneDrive\Escritorio\Prueba Parcial\Modulos\Protitipo Parcial\Prototipo\Modelo\obj\Debug\Modelo_PrototipoMenu.dll
+C:\Users\d_car\OneDrive\Escritorio\Prueba Parcial\Modulos\Protitipo Parcial\Prototipo\Modelo\obj\Debug\Modelo_PrototipoMenu.pdb
