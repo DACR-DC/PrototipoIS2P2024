@@ -114,7 +114,7 @@ namespace MenuHCV
         {
             Vista_PrototipoMenu.MenuPrototipo form = new Vista_PrototipoMenu.MenuPrototipo();
             form.Show();
-            cn.setBtitacora("8000", "Ingreso Prototipo Parcial");
+            cn.setBtitacora("8000", "Ingreso Cinevision parcial2");
         }
         //Método que ingresa un valor a la bitacora de acuerdo el módulo
 

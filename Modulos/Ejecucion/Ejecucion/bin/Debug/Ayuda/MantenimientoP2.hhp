@@ -1,0 +1,17 @@
+[OPTIONS]
+Compatibility=1.1 or later
+Compiled file=MantenimientoP2.chm
+Contents file=Table of Contents.hhc
+Default Window=Contenido
+Display compile progress=No
+Language=0x100a Español (Guatemala)
+
+[WINDOWS]
+Contenido=,"Table of Contents.hhc",,"Mantenimiento.html","Mantenimiento.html","Mantenimiento.html","Mantenimiento","Mantenimiento.html","Mantenimiento",0x23520,,0xc387e,,,,,,,,0
+
+
+[FILES]
+Mantenimiento.html
+
+[INFOTYPES]
+

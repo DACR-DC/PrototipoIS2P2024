@@ -46,7 +46,8 @@
             this.textBox1.Name = "textBox1";
             this.textBox1.Size = new System.Drawing.Size(220, 28);
             this.textBox1.TabIndex = 0;
-            this.textBox1.Tag = "nombre_moneda";
+            this.textBox1.Tag = "Nombre";
+            this.textBox1.TextChanged += new System.EventHandler(this.textBox1_TextChanged);
             // 
             // contextMenuStrip1
             // 
@@ -61,7 +62,8 @@
             this.textBox2.Name = "textBox2";
             this.textBox2.Size = new System.Drawing.Size(220, 28);
             this.textBox2.TabIndex = 2;
-            this.textBox2.Tag = "moneda_valor";
+            this.textBox2.Tag = "Nit";
+            this.textBox2.TextChanged += new System.EventHandler(this.textBox2_TextChanged);
             // 
             // dataGridView1
             // 
@@ -87,9 +89,9 @@
             this.label1.Font = new System.Drawing.Font("Microsoft Sans Serif", 13.8F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label1.Location = new System.Drawing.Point(119, 118);
             this.label1.Name = "label1";
-            this.label1.Size = new System.Drawing.Size(195, 29);
+            this.label1.Size = new System.Drawing.Size(183, 29);
             this.label1.TabIndex = 5;
-            this.label1.Text = "Nombre Moneda";
+            this.label1.Text = "Nombre Cliente";
             // 
             // label2
             // 
@@ -97,9 +99,9 @@
             this.label2.Font = new System.Drawing.Font("Microsoft Sans Serif", 13.8F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label2.Location = new System.Drawing.Point(387, 116);
             this.label2.Name = "label2";
-            this.label2.Size = new System.Drawing.Size(163, 29);
+            this.label2.Size = new System.Drawing.Size(125, 29);
             this.label2.TabIndex = 6;
-            this.label2.Text = "Valor Moneda";
+            this.label2.Text = "Nit Cliente";
             // 
             // frmMantenimiento
             // 

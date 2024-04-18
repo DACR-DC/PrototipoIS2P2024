@@ -30,15 +30,14 @@ namespace Vista_PrototipoMenu
         private void InitializeComponent()
         {
             this.panelLogo = new System.Windows.Forms.Panel();
-            this.label2 = new System.Windows.Forms.Label();
             this.label1 = new System.Windows.Forms.Label();
-            this.pictureBox1 = new System.Windows.Forms.PictureBox();
             this.btninicio = new System.Windows.Forms.Button();
             this.btnmanteniminetos = new System.Windows.Forms.Button();
             this.panelTranportes = new System.Windows.Forms.Panel();
             this.btnMantenimento = new System.Windows.Forms.Button();
             this.btnProcesos = new System.Windows.Forms.Button();
             this.PanelAuditoria = new System.Windows.Forms.Panel();
+            this.button1 = new System.Windows.Forms.Button();
             this.btnReportes = new System.Windows.Forms.Button();
             this.panelseguridad = new System.Windows.Forms.Panel();
             this.btnSeguridad = new System.Windows.Forms.Button();
@@ -46,18 +45,20 @@ namespace Vista_PrototipoMenu
             this.btnayuda = new System.Windows.Forms.Button();
             this.panelSideMenu = new System.Windows.Forms.Panel();
             this.btnsalir = new System.Windows.Forms.Button();
-            this.button1 = new System.Windows.Forms.Button();
+            this.btn_rep_cl = new System.Windows.Forms.Button();
+            this.pictureBox1 = new System.Windows.Forms.PictureBox();
+            this.button2 = new System.Windows.Forms.Button();
             this.panelLogo.SuspendLayout();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBox1)).BeginInit();
             this.panelTranportes.SuspendLayout();
             this.PanelAuditoria.SuspendLayout();
+            this.panelseguridad.SuspendLayout();
             this.panelSideMenu.SuspendLayout();
+            ((System.ComponentModel.ISupportInitialize)(this.pictureBox1)).BeginInit();
             this.SuspendLayout();
             // 
             // panelLogo
             // 
-            this.panelLogo.BackColor = System.Drawing.Color.Aqua;
-            this.panelLogo.Controls.Add(this.label2);
+            this.panelLogo.BackColor = System.Drawing.Color.LightSeaGreen;
             this.panelLogo.Controls.Add(this.label1);
             this.panelLogo.Controls.Add(this.pictureBox1);
             this.panelLogo.Dock = System.Windows.Forms.DockStyle.Top;
@@ -67,46 +68,22 @@ namespace Vista_PrototipoMenu
             this.panelLogo.Size = new System.Drawing.Size(555, 209);
             this.panelLogo.TabIndex = 0;
             // 
-            // label2
-            // 
-            this.label2.AutoSize = true;
-            this.label2.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label2.ForeColor = System.Drawing.SystemColors.ActiveCaptionText;
-            this.label2.Location = new System.Drawing.Point(273, 122);
-            this.label2.Name = "label2";
-            this.label2.Size = new System.Drawing.Size(169, 25);
-            this.label2.TabIndex = 9;
-            this.label2.Text = "DE GUATEMALA";
-            this.label2.TextAlign = System.Drawing.ContentAlignment.MiddleCenter;
-            // 
             // label1
             // 
             this.label1.AutoSize = true;
             this.label1.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label1.ForeColor = System.Drawing.SystemColors.ActiveCaptionText;
-            this.label1.Location = new System.Drawing.Point(207, 84);
+            this.label1.Location = new System.Drawing.Point(273, 101);
             this.label1.Name = "label1";
-            this.label1.Size = new System.Drawing.Size(330, 25);
+            this.label1.Size = new System.Drawing.Size(127, 25);
             this.label1.TabIndex = 8;
-            this.label1.Text = "UNIVERSIDAD MARIANO GALVES";
+            this.label1.Text = "CINEVISION";
             this.label1.TextAlign = System.Drawing.ContentAlignment.MiddleCenter;
             this.label1.Click += new System.EventHandler(this.label1_Click);
             // 
-            // pictureBox1
-            // 
-            this.pictureBox1.BackColor = System.Drawing.Color.Turquoise;
-            this.pictureBox1.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch;
-            this.pictureBox1.Image = global::Vista_PrototipoMenu.Properties.Resources.logo_umg;
-            this.pictureBox1.Location = new System.Drawing.Point(13, 30);
-            this.pictureBox1.Margin = new System.Windows.Forms.Padding(4);
-            this.pictureBox1.Name = "pictureBox1";
-            this.pictureBox1.Size = new System.Drawing.Size(149, 147);
-            this.pictureBox1.TabIndex = 7;
-            this.pictureBox1.TabStop = false;
-            // 
             // btninicio
             // 
-            this.btninicio.BackColor = System.Drawing.Color.DarkSlateGray;
+            this.btninicio.BackColor = System.Drawing.Color.LightSeaGreen;
             this.btninicio.Cursor = System.Windows.Forms.Cursors.Default;
             this.btninicio.Dock = System.Windows.Forms.DockStyle.Top;
             this.btninicio.FlatAppearance.BorderSize = 0;
@@ -126,7 +103,7 @@ namespace Vista_PrototipoMenu
             // 
             // btnmanteniminetos
             // 
-            this.btnmanteniminetos.BackColor = System.Drawing.Color.DarkSlateGray;
+            this.btnmanteniminetos.BackColor = System.Drawing.Color.LightSeaGreen;
             this.btnmanteniminetos.Cursor = System.Windows.Forms.Cursors.Default;
             this.btnmanteniminetos.Dock = System.Windows.Forms.DockStyle.Top;
             this.btnmanteniminetos.FlatAppearance.BorderSize = 0;
@@ -147,6 +124,7 @@ namespace Vista_PrototipoMenu
             // panelTranportes
             // 
             this.panelTranportes.BackColor = System.Drawing.Color.LightSlateGray;
+            this.panelTranportes.Controls.Add(this.button2);
             this.panelTranportes.Controls.Add(this.btnMantenimento);
             this.panelTranportes.Dock = System.Windows.Forms.DockStyle.Top;
             this.panelTranportes.Location = new System.Drawing.Point(0, 329);
@@ -168,14 +146,14 @@ namespace Vista_PrototipoMenu
             this.btnMantenimento.Padding = new System.Windows.Forms.Padding(85, 0, 0, 0);
             this.btnMantenimento.Size = new System.Drawing.Size(555, 66);
             this.btnMantenimento.TabIndex = 3;
-            this.btnMantenimento.Text = "Mantenimiento";
+            this.btnMantenimento.Text = "Mantenimiento Clientes";
             this.btnMantenimento.TextAlign = System.Drawing.ContentAlignment.MiddleLeft;
             this.btnMantenimento.UseVisualStyleBackColor = true;
             this.btnMantenimento.Click += new System.EventHandler(this.btnMantenimento_Click);
             // 
             // btnProcesos
             // 
-            this.btnProcesos.BackColor = System.Drawing.Color.DarkSlateGray;
+            this.btnProcesos.BackColor = System.Drawing.Color.LightSeaGreen;
             this.btnProcesos.Cursor = System.Windows.Forms.Cursors.Default;
             this.btnProcesos.Dock = System.Windows.Forms.DockStyle.Top;
             this.btnProcesos.FlatAppearance.BorderSize = 0;
@@ -205,9 +183,25 @@ namespace Vista_PrototipoMenu
             this.PanelAuditoria.TabIndex = 5;
             this.PanelAuditoria.Visible = false;
             // 
+            // button1
+            // 
+            this.button1.Dock = System.Windows.Forms.DockStyle.Top;
+            this.button1.FlatAppearance.BorderSize = 0;
+            this.button1.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
+            this.button1.Font = new System.Drawing.Font("Segoe UI", 8.25F);
+            this.button1.Location = new System.Drawing.Point(0, 0);
+            this.button1.Margin = new System.Windows.Forms.Padding(4);
+            this.button1.Name = "button1";
+            this.button1.Padding = new System.Windows.Forms.Padding(85, 0, 0, 0);
+            this.button1.Size = new System.Drawing.Size(555, 66);
+            this.button1.TabIndex = 4;
+            this.button1.Text = "Proceso";
+            this.button1.TextAlign = System.Drawing.ContentAlignment.MiddleLeft;
+            this.button1.UseVisualStyleBackColor = true;
+            // 
             // btnReportes
             // 
-            this.btnReportes.BackColor = System.Drawing.Color.DarkSlateGray;
+            this.btnReportes.BackColor = System.Drawing.Color.LightSeaGreen;
             this.btnReportes.Cursor = System.Windows.Forms.Cursors.Default;
             this.btnReportes.Dock = System.Windows.Forms.DockStyle.Top;
             this.btnReportes.FlatAppearance.BorderSize = 0;
@@ -228,6 +222,7 @@ namespace Vista_PrototipoMenu
             // panelseguridad
             // 
             this.panelseguridad.BackColor = System.Drawing.Color.LightSlateGray;
+            this.panelseguridad.Controls.Add(this.btn_rep_cl);
             this.panelseguridad.Dock = System.Windows.Forms.DockStyle.Top;
             this.panelseguridad.Location = new System.Drawing.Point(0, 848);
             this.panelseguridad.Margin = new System.Windows.Forms.Padding(4);
@@ -238,7 +233,7 @@ namespace Vista_PrototipoMenu
             // 
             // btnSeguridad
             // 
-            this.btnSeguridad.BackColor = System.Drawing.Color.DarkSlateGray;
+            this.btnSeguridad.BackColor = System.Drawing.Color.LightSeaGreen;
             this.btnSeguridad.Cursor = System.Windows.Forms.Cursors.Default;
             this.btnSeguridad.Dock = System.Windows.Forms.DockStyle.Top;
             this.btnSeguridad.FlatAppearance.BorderSize = 0;
@@ -269,7 +264,7 @@ namespace Vista_PrototipoMenu
             // 
             // btnayuda
             // 
-            this.btnayuda.BackColor = System.Drawing.Color.DarkSlateGray;
+            this.btnayuda.BackColor = System.Drawing.Color.LightSeaGreen;
             this.btnayuda.Cursor = System.Windows.Forms.Cursors.Default;
             this.btnayuda.Dock = System.Windows.Forms.DockStyle.Top;
             this.btnayuda.FlatAppearance.BorderSize = 0;
@@ -313,7 +308,7 @@ namespace Vista_PrototipoMenu
             // 
             // btnsalir
             // 
-            this.btnsalir.BackColor = System.Drawing.Color.DarkSlateGray;
+            this.btnsalir.BackColor = System.Drawing.Color.LightSeaGreen;
             this.btnsalir.Cursor = System.Windows.Forms.Cursors.Default;
             this.btnsalir.Dock = System.Windows.Forms.DockStyle.Top;
             this.btnsalir.FlatAppearance.BorderSize = 0;
@@ -331,22 +326,52 @@ namespace Vista_PrototipoMenu
             this.btnsalir.UseVisualStyleBackColor = false;
             this.btnsalir.Click += new System.EventHandler(this.btnsalir_Click);
             // 
-            // button1
+            // btn_rep_cl
             // 
-            this.button1.Dock = System.Windows.Forms.DockStyle.Top;
-            this.button1.FlatAppearance.BorderSize = 0;
-            this.button1.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
-            this.button1.Font = new System.Drawing.Font("Segoe UI", 8.25F);
-            this.button1.Location = new System.Drawing.Point(0, 0);
-            this.button1.Margin = new System.Windows.Forms.Padding(4);
-            this.button1.Name = "button1";
-            this.button1.Padding = new System.Windows.Forms.Padding(85, 0, 0, 0);
-            this.button1.Size = new System.Drawing.Size(555, 66);
-            this.button1.TabIndex = 4;
-            this.button1.Text = "Proceso";
-            this.button1.TextAlign = System.Drawing.ContentAlignment.MiddleLeft;
-            this.button1.UseVisualStyleBackColor = true;
-            this.button1.Click += new System.EventHandler(this.button1_Click);
+            this.btn_rep_cl.Dock = System.Windows.Forms.DockStyle.Top;
+            this.btn_rep_cl.FlatAppearance.BorderSize = 0;
+            this.btn_rep_cl.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
+            this.btn_rep_cl.Font = new System.Drawing.Font("Segoe UI", 8.25F);
+            this.btn_rep_cl.Location = new System.Drawing.Point(0, 0);
+            this.btn_rep_cl.Margin = new System.Windows.Forms.Padding(4);
+            this.btn_rep_cl.Name = "btn_rep_cl";
+            this.btn_rep_cl.Padding = new System.Windows.Forms.Padding(85, 0, 0, 0);
+            this.btn_rep_cl.Size = new System.Drawing.Size(555, 66);
+            this.btn_rep_cl.TabIndex = 5;
+            this.btn_rep_cl.Text = "Reporte Clientes";
+            this.btn_rep_cl.TextAlign = System.Drawing.ContentAlignment.MiddleLeft;
+            this.btn_rep_cl.UseVisualStyleBackColor = true;
+            this.btn_rep_cl.Click += new System.EventHandler(this.btn_rep_cl_Click);
+            // 
+            // pictureBox1
+            // 
+            this.pictureBox1.BackColor = System.Drawing.Color.Turquoise;
+            this.pictureBox1.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch;
+            this.pictureBox1.Image = global::Vista_PrototipoMenu.Properties.Resources.Logo_Bytech;
+            this.pictureBox1.Location = new System.Drawing.Point(13, 30);
+            this.pictureBox1.Margin = new System.Windows.Forms.Padding(4);
+            this.pictureBox1.Name = "pictureBox1";
+            this.pictureBox1.Size = new System.Drawing.Size(149, 147);
+            this.pictureBox1.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
+            this.pictureBox1.TabIndex = 7;
+            this.pictureBox1.TabStop = false;
+            // 
+            // button2
+            // 
+            this.button2.Dock = System.Windows.Forms.DockStyle.Top;
+            this.button2.FlatAppearance.BorderSize = 0;
+            this.button2.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
+            this.button2.Font = new System.Drawing.Font("Segoe UI", 8.25F);
+            this.button2.Location = new System.Drawing.Point(0, 66);
+            this.button2.Margin = new System.Windows.Forms.Padding(4);
+            this.button2.Name = "button2";
+            this.button2.Padding = new System.Windows.Forms.Padding(85, 0, 0, 0);
+            this.button2.Size = new System.Drawing.Size(555, 66);
+            this.button2.TabIndex = 4;
+            this.button2.Text = "Mantenimiento Cines";
+            this.button2.TextAlign = System.Drawing.ContentAlignment.MiddleLeft;
+            this.button2.UseVisualStyleBackColor = true;
+            this.button2.Click += new System.EventHandler(this.button2_Click);
             // 
             // MenuPrototipo
             // 
@@ -361,10 +386,11 @@ namespace Vista_PrototipoMenu
             this.Text = "Menu Prototipo";
             this.panelLogo.ResumeLayout(false);
             this.panelLogo.PerformLayout();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBox1)).EndInit();
             this.panelTranportes.ResumeLayout(false);
             this.PanelAuditoria.ResumeLayout(false);
+            this.panelseguridad.ResumeLayout(false);
             this.panelSideMenu.ResumeLayout(false);
+            ((System.ComponentModel.ISupportInitialize)(this.pictureBox1)).EndInit();
             this.ResumeLayout(false);
 
         }
@@ -387,7 +413,8 @@ namespace Vista_PrototipoMenu
         private System.Windows.Forms.Panel panelSideMenu;
         private System.Windows.Forms.Button btnsalir;
         private System.Windows.Forms.Label label1;
-        private System.Windows.Forms.Label label2;
         private System.Windows.Forms.Button button1;
+        private System.Windows.Forms.Button btn_rep_cl;
+        private System.Windows.Forms.Button button2;
     }
 }

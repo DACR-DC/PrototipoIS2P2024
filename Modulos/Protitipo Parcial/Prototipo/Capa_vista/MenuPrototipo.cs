@@ -97,7 +97,7 @@ namespace Vista_PrototipoMenu
         //Método que muestra el formulario indicado
         private void btnayuda_Click(object sender, EventArgs e)
         {
-            Help.ShowHelp(this, "umg.chm");            
+            Help.ShowHelp(this,"Ayuda/MantenimientoP2.chm" ,"Mantenimiento.html");            
         }
 
         private void label1_Click(object sender, EventArgs e)
@@ -105,16 +105,20 @@ namespace Vista_PrototipoMenu
 
         }
 
-        private void button1_Click(object sender, EventArgs e)
+        private void btn_rep_cl_Click(object sender, EventArgs e)
         {
-            DatosMoneda form = new DatosMoneda();
-            form.MdiParent = this;
-            form.Show();
+            ReporteClientes rep = new ReporteClientes();
+            rep.MdiParent = this;
+            rep.Show();
             hideSubMenu();
-
         }
 
-        //Boton para el mantenimiento de los maestros
-
+        private void button2_Click(object sender, EventArgs e)
+        {
+            MantCine cine = new MantCine();
+            cine.MdiParent = this;
+            cine.Show();
+            hideSubMenu();
+        }
     }
 }

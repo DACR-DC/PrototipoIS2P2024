@@ -18,3 +18,13 @@ C:\Users\d_car\OneDrive\Escritorio\Prueba Parcial\Modulos\Protitipo Parcial\Prot
 C:\Users\d_car\OneDrive\Escritorio\Prueba Parcial\Modulos\Protitipo Parcial\Prototipo\Capa_controlador\obj\Debug\Controlador_PrototipoMenu.csproj.CopyComplete
 C:\Users\d_car\OneDrive\Escritorio\Prueba Parcial\Modulos\Protitipo Parcial\Prototipo\Capa_controlador\obj\Debug\Controlador_PrototipoMenu.dll
 C:\Users\d_car\OneDrive\Escritorio\Prueba Parcial\Modulos\Protitipo Parcial\Prototipo\Capa_controlador\obj\Debug\Controlador_PrototipoMenu.pdb
+C:\Users\d_car\OneDrive\Documentos\GitHub\PrototipoIS2P2024\Modulos\Protitipo Parcial\Prototipo\Capa_controlador\bin\Debug\Controlador_PrototipoMenu.dll
+C:\Users\d_car\OneDrive\Documentos\GitHub\PrototipoIS2P2024\Modulos\Protitipo Parcial\Prototipo\Capa_controlador\bin\Debug\Controlador_PrototipoMenu.pdb
+C:\Users\d_car\OneDrive\Documentos\GitHub\PrototipoIS2P2024\Modulos\Protitipo Parcial\Prototipo\Capa_controlador\bin\Debug\eCryptography.dll
+C:\Users\d_car\OneDrive\Documentos\GitHub\PrototipoIS2P2024\Modulos\Protitipo Parcial\Prototipo\Capa_controlador\bin\Debug\Modelo_PrototipoMenu.dll
+C:\Users\d_car\OneDrive\Documentos\GitHub\PrototipoIS2P2024\Modulos\Protitipo Parcial\Prototipo\Capa_controlador\bin\Debug\Modelo_PrototipoMenu.pdb
+C:\Users\d_car\OneDrive\Documentos\GitHub\PrototipoIS2P2024\Modulos\Protitipo Parcial\Prototipo\Capa_controlador\obj\Debug\Controlador_PrototipoMenu.csproj.AssemblyReference.cache
+C:\Users\d_car\OneDrive\Documentos\GitHub\PrototipoIS2P2024\Modulos\Protitipo Parcial\Prototipo\Capa_controlador\obj\Debug\Controlador_PrototipoMenu.csproj.CoreCompileInputs.cache
+C:\Users\d_car\OneDrive\Documentos\GitHub\PrototipoIS2P2024\Modulos\Protitipo Parcial\Prototipo\Capa_controlador\obj\Debug\Controlador_PrototipoMenu.csproj.CopyComplete
+C:\Users\d_car\OneDrive\Documentos\GitHub\PrototipoIS2P2024\Modulos\Protitipo Parcial\Prototipo\Capa_controlador\obj\Debug\Controlador_PrototipoMenu.dll
+C:\Users\d_car\OneDrive\Documentos\GitHub\PrototipoIS2P2024\Modulos\Protitipo Parcial\Prototipo\Capa_controlador\obj\Debug\Controlador_PrototipoMenu.pdb

@@ -15,7 +15,17 @@ namespace Vista_PrototipoMenu
         public frmMantenimiento()
         {
             InitializeComponent();
-            this.navegador1.config("tbl_moneda", this, "8001");
+            this.navegador1.config("clientes", this, "8001");
+        }
+
+        private void textBox1_TextChanged(object sender, EventArgs e)
+        {
+
+        }
+
+        private void textBox2_TextChanged(object sender, EventArgs e)
+        {
+
         }
     }
 }

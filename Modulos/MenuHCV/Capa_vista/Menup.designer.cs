@@ -88,7 +88,7 @@ namespace MenuHCV
             this.btnPrototipo.Padding = new System.Windows.Forms.Padding(68, 0, 0, 0);
             this.btnPrototipo.Size = new System.Drawing.Size(319, 38);
             this.btnPrototipo.TabIndex = 19;
-            this.btnPrototipo.Text = "Parcial 2";
+            this.btnPrototipo.Text = "CineVision";
             this.btnPrototipo.TextAlign = System.Drawing.ContentAlignment.MiddleLeft;
             this.btnPrototipo.UseVisualStyleBackColor = false;
             this.btnPrototipo.Click += new System.EventHandler(this.btnPrototipo_Click);
